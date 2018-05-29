@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a727c5-2d2a-4edb-b8fa-759d1688c9d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yuanfang/test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mall.iml" afterPath="$PROJECT_DIR$/mall.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,15 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuanfang/test.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -285,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527604413535</updated>
       <workItem from="1527604418055" duration="617000" />
-      <workItem from="1527605587452" duration="2335000" />
+      <workItem from="1527605587452" duration="2744000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1527606388478</created>
@@ -301,14 +296,22 @@
       <option name="project" value="LOCAL" />
       <updated>1527606545085</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1527607944266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527607944266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2952000" />
+    <option name="totallyTimeSpent" value="3361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28928047" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="0" y="265" width="1362" height="197" />
@@ -323,7 +326,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579666" sideWeight="0.49237472" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579666" sideWeight="0.49237472" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -359,44 +362,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <marker date="1527605583472" expanded="true" signature="144:2185" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="550:747" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="765:942" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="782:924" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="953:2174" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1008:2163" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1118:2139" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1135:1242" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1383:1494" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1511:1621" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1638:1749" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1766:1871" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1888:1997" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="2014:2122" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuanfang/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <marker date="1527605583472" expanded="true" signature="144:2185" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="550:747" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="765:942" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="782:924" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="953:2174" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1008:2163" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1118:2139" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1135:1242" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1383:1494" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1511:1621" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1638:1749" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1766:1871" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="1888:1997" ph="..." />
-            <marker date="1527605583472" expanded="true" signature="2014:2122" ph="..." />
+            <marker date="1527607762663" expanded="true" signature="85:96" ph=" { " />
+            <marker date="1527607762663" expanded="true" signature="130:136" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -409,14 +385,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuanfang/test.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
