@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
+        <module name="eurekaserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common" target="1.7" />
+      <module name="eurekaserver" target="1.7" />
       <module name="mall" target="1.7" />
       <module name="sh" target="1.7" />
     </bytecodeTargetLevel>
